@@ -1,3 +1,1 @@
 # SuperCoolProject
-
-Richard
